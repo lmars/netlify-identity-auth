@@ -2,7 +2,7 @@
   framework="#static"
 
 [build]
-  publish="assets/"
+  publish="public/"
 
 [functions]
   directory = "functions"
